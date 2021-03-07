@@ -1,1 +1,12 @@
+#<include isostream>
+
+using namespace std;
+
+int main()
+{
+int first[20],second[20], sumA[100], c,n;
+cout <<"Enter the number of element of an array";
+cin>>n;
+
+cout<<"Enter elemets of first array"<<end1;
 
