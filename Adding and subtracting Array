@@ -4,9 +4,15 @@ using namespace std;
 
 int main()
 {
-int first[20],second[20], sumA[100], c,n;
-cout <<"Enter the number of element of an array";
-cin>>n;
+int i, j, rows,colums, a[10][10], b[10][10];
+int Addition[10][10], Substraction[10][10], Multiplication[10][10],Module[10][10];
+float Divisions[10][10]
 
-cout<<"Enter elemets of first array"<<end1;
+printf("\nPlease Enter Number of rows and columns\n");
+for (row=0; rows<i; rows++)
+{
+
+for (colums= 0; colums<j; columns++)
+{
+scanf("%d", &b[rows][colums]);
 
