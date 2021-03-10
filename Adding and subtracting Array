@@ -22,8 +22,14 @@ scanf("%d", &a[rows][columns]);
 printf("\nPlease Enter the second Array Elements\n");
 for (columns=0; columns<i; columns++)
 {
-scanf("d", &b[rows][colums]);
+scanf("%d", &b[rows][columns]);
 }
 }
+for(rows=0; rows<i; rows++)
+{
+for(columns=0; columns<j; columns++)
+{
+
+
 
 
