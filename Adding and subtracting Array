@@ -14,5 +14,16 @@ for (row=0; rows<i; rows++)
 
 for (colums= 0; colums<j; columns++)
 {
-scanf("%d", &b[rows][colums]);
+scanf("%d", &a[rows][columns]);
+}
+
+}
+
+printf("\nPlease Enter the second Array Elements\n");
+for (columns=0; columns<i; columns++)
+{
+scanf("d", &b[rows][colums]);
+}
+}
+
 
