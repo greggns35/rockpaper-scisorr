@@ -4,3 +4,10 @@
 int main()
 {
 char Str[100], str2[100]
+
+printf("\n Please enter the First String : ");
+gets (str1);
+
+Printf("\ Please enter the second String :");
+gets(Str2);
+
