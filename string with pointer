@@ -3,11 +3,13 @@
 
 int main()
 {
-char Str[100], str2[100]
+char Str1[100], str2[100]
 
 printf("\n Please enter the First String : ");
 gets (str1);
 
 Printf("\ Please enter the second String :");
 gets(Str2);
+
+for (i=0; str1[i]==str2 &&Str1[i]== '\0'; i++);
 
